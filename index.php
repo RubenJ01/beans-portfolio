@@ -1,6 +1,7 @@
 <?php
 /*
 Jungbin's art portofolio website.
+This is the home page.
 @author Ruben Eekhof
 */
 ?>
@@ -26,11 +27,11 @@ Jungbin's art portofolio website.
 
 		<div class="navbar row horizontal">
 			<ul class="nav">
-				<li class="nav-item"><a href="">Test</a></li>
-				<li class="nav-item"><a href="">About me</a></li>
-				<li class="nav-item"><a href="">Other Art</a></li>
-				<li class="nav-item"><a href="">Digital Art</a></li>
-				<li class="nav-item"><a href="">Faq</a></li>
+				<li class="nav-item"><a href="index.php">HOME</a></li>
+				<li class="nav-item"><a href="aboutme.php">ABOUT ME</a></li>
+				<li class="nav-item"><a href="">OTHER ART</a></li>
+				<li class="nav-item"><a href="">DIGITAL ART</a></li>
+				<li class="nav-item"><a href="">FAQ</a></li>
 			</ul>
 		</div>
 	</div>
@@ -43,11 +44,11 @@ Jungbin's art portofolio website.
 						<img src="art/profilepicture.jpg">
 					</div>
 					<div class="status">
-						<textarea readonly>Current thoughts and status.</textarea>
+						<textarea readonly>CURRENT THOUGHTS AND STATUS</textarea>
 					</div>
 				</div>
 				<div class="fav_songs row vertical">
-					<h3>Favourite songs</h3>
+					<h3>FAVOURITE SONGS</h3>
 					<iframe src="https://open.spotify.com/embed/playlist/6Bk4iUyRdMNkWlukwGq1TM" height="380"
 						frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 				</div>
